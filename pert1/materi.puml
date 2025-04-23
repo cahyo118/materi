@@ -1,0 +1,14 @@
+@startmindmap (data_structure_map)
+
+* struktur data
+** linear
+*** static
+**** Array
+*** Dynamic
+**** Queue
+**** Stack
+**** linked_list
+** Non-Linear
+*** Tree
+*** Graph
+@endmindmap
