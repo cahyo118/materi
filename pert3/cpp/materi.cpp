@@ -19,3 +19,4 @@ int main() {
     cout << f << endl;
     
 }
+return 0;
